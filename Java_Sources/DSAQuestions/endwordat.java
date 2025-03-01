@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class endwordat {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
-        System.out.println("enter name");
+        System.out.println("Enter name");
         String name = scn.nextLine().trim();
 
         System.out.println("Your name is ");
